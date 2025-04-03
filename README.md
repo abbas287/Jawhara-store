@@ -5,7 +5,9 @@
 This course has been deprecated. Please visit the [Getting Started with GitHub Copilot](https://github.com/skills/getting-started-with-github-copilot) exercise for the newest learning content.
 
 <!--
-  <<< Author notes: Course header >>>
+  <<< Author notes: Cdocument.getElementById("contactBtn").addEventListener("click", function() {
+    alert("Contact us at support@jawhara.com!");
+});ourse header >>>
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
